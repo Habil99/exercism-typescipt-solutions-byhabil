@@ -4,7 +4,7 @@
  */
 Object.defineProperty(exports, "__esModule", { value: true });
 exports.decodedResistorValue = void 0;
-var enums_1 = require("./enums");
+var enums_1 = require("../enums");
 var ResistorColorTrio = /** @class */ (function () {
     function ResistorColorTrio(colors) {
         this.colors = colors;

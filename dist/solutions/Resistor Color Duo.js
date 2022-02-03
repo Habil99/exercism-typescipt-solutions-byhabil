@@ -5,7 +5,7 @@
 Object.defineProperty(exports, "__esModule", { value: true });
 exports.ResistorColor = exports.decodedValue = void 0;
 // Solution #1
-var enums_1 = require("./enums");
+var enums_1 = require("../enums");
 function decodedValue(colors) {
     var result = "";
     colors.slice(0, 2).map(function (color) {

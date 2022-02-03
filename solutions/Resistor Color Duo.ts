@@ -3,7 +3,7 @@
  */
 
 // Solution #1
-import { Colors } from "./enums";
+import { Colors } from "../enums";
 
 export function decodedValue(colors: Array<keyof typeof Colors>): number {
   let result: string = "";

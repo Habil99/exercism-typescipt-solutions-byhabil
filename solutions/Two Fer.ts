@@ -3,7 +3,7 @@
  */
 
 // Solution #1
-import { Name } from "./enums";
+import { Name } from "../enums";
 
 export function twoFer(name?: keyof typeof Name): string {
   return `One for ${name || "you"}, one for me.`;

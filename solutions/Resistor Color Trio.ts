@@ -2,7 +2,7 @@
  * * URL: https://exercism.org/tracks/typescript/exercises/resistor-color-trio/edit
  */
 
-import { Colors } from "./enums";
+import { Colors } from "../enums";
 
 // * Solution #1
 type TColor = Array<keyof typeof Colors>;
