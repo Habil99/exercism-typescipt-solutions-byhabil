@@ -4,7 +4,7 @@
     "experimentalDecorators": true,
     "module": "commonjs",
     "target": "ES5",
-    "outDir": "dist",
-    "rootDir": "."
+    "outDir": "src/dist",
+    "rootDir": "src/"
   }
 }
