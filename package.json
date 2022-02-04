@@ -5,7 +5,7 @@
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
-    "watch-compile": "tsc -w"
+    "watch:compile": "tsc -w"
   },
   "keywords": [],
   "author": "",
